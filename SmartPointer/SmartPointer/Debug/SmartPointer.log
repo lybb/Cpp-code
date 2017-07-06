@@ -1,0 +1,10 @@
+﻿生成启动时间为 2017/7/6 22:00:35。
+     1>项目“D:\code\vs_code\复习\SmartPointer\SmartPointer\SmartPointer.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         C:\vs\VSlujing\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt scoped_ptr.cpp
+         scoped_ptr.cpp
+     1>已完成生成项目“D:\code\vs_code\复习\SmartPointer\SmartPointer\SmartPointer.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.96
